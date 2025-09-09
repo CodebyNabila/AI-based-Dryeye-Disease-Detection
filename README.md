@@ -46,3 +46,17 @@ It combines Machine Learning (MLP) and Deep Learning (MobileNet, VGG-19) with St
 
 4. Streamlit UI with custom background & navigation
 5. Chatbot for solving real-time queries on Dry eye disease
+
+# Tech Stack
+
+   Python
+
+   Streamlit for UI
+
+   TensorFlow / Keras for Deep Learning (MobileNet, VGG-19)
+
+   scikit-learn for preprocessing + MLP
+
+   OpenCV / skimage for image processing (resizing, grayscale, GLCM)
+
+   Matplotlib for visualization
