@@ -12,7 +12,7 @@ It combines Machine Learning (MLP) and Deep Learning (MobileNet, VGG-19) with St
 
 # Features
 
-# 1. Dry Eye Prediction
+1. Dry Eye Prediction
 
    Input: Dataset.xlsx survey data
 
@@ -22,7 +22,7 @@ It combines Machine Learning (MLP) and Deep Learning (MobileNet, VGG-19) with St
 
    Output: Stage classification (Mild / Moderate / Severe / Normal)
 
-# 2. Eye Disease Prediction
+2. Eye Disease Prediction
 
    Input: Image (jpg/png)
 
@@ -34,7 +34,7 @@ It combines Machine Learning (MLP) and Deep Learning (MobileNet, VGG-19) with St
 
    Output: Prediction (Affected / Not)
 
-# 3. Eye Blink Detection
+3. Eye Blink Detection
 
    Input: Image (jpg/png)
 
