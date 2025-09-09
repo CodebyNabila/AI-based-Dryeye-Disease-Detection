@@ -44,4 +44,5 @@ Model: VGG-19 CNN
 
 Output: Blink state classification
 
-# 4. Streamlit UI with custom background & navigation
+4. Streamlit UI with custom background & navigation
+5. Chatbot for solving real-time queries on Dry eye disease
